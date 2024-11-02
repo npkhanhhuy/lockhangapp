@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "509417888473",
+    "project_id": "projectlockhang-df6a5",
+    "storage_bucket": "projectlockhang-df6a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509417888473:android:b050a81bfed2705ec9bcc8",
+        "android_client_info": {
+          "package_name": "com.anonymous.LocKhangApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509417888473-md067e5ef33neo9udal32u7d80n4ltgl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anonymous.LocKhangApp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "509417888473-ubm9rfqc9o85enr821c2qteh2lsnoola.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2PP2-hkENPcGZiPLDvoT2bokZV4bFt1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509417888473-ubm9rfqc9o85enr821c2qteh2lsnoola.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
